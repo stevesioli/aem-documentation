@@ -13,3 +13,5 @@ http://helpx.adobe.com/experience-manager/using/creating-sightly-component.html
 http://stackoverflow.com/questions/24550498/conditional-attributes-in-sightly-templates-aem-cq
 https://github.com/Adobe-Marketing-Cloud/sightly-spec/blob/master/SPECIFICATION.md 
 http://dev.day.com/docs/en/cq/current/developing/developmenttools/dialog_editor.html
+
+https://github.com/paulrohrbeck/aem-links
