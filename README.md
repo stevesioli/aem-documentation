@@ -19,6 +19,7 @@ GitHub
 - https://github.com/paulrohrbeck/aem-links
 - https://github.com/gavoja/aemsync
 - https://github.com/cozuya/AEM-gulp-sass-workflow
+- https://gist.github.com/sergeimuller/2916697
 
 http://stackoverflow.com/questions/24550498/conditional-attributes-in-sightly-templates-aem-cq
 
